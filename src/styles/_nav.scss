@@ -1,0 +1,6 @@
+.nav-link {
+    color: $indigo;
+    &.active {
+        color: $pink;
+    }
+}

@@ -1,0 +1,15 @@
+h1,h2,
+h3,h4,
+h5,h6 {
+    color: $gray-900;
+    margin-bottom: 0;
+}
+p {
+    margin-bottom: 0;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: $primary;
+}
